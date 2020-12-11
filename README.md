@@ -1,4 +1,5 @@
 ## <h1>📍 Encryption By MJlulu02</h1>
+[![HitCount](http://hits.dwyl.com/MJlulu02/Encryption.svg)](http://hits.dwyl.com/MJlulu02/Encryption)
 
 - 🔧 Created to encrypt sentencse.
 - 🏆 Encryption by substitution.
