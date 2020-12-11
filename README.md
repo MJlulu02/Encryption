@@ -6,9 +6,7 @@
 
 ## 📚 Dependence
 
-💡 Install the dependencies :
-
-   💎 Python Dependence V 3.9.1 [Python Install](https://www.python.org/downloads/)
+💎 Python Dependence V 3.9.1 [Python Install](https://www.python.org/downloads/)
 
 ## 💻 Run Code
 
